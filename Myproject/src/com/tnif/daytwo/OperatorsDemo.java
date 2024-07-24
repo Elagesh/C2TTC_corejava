@@ -1,6 +1,6 @@
-package com.tns.daytwo;
+package com.tnif.daytwo;
 
-public class OperatorDemo {
+public class OperatorsDemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -12,7 +12,7 @@ public class OperatorDemo {
 		int c = ++a + b + a--;
 		System.out.println("c value after the operations: " + c);
 		int d = c++ + a + b--;
-		System.out.println("d value after the operations: " +d);
+		System.out.println("d value after the operations: " + d);
 		System.out.println("a , b,c,d values after the operations: " + a + " " + b + " " + c + " " + d);
 		
 		 x = (10 == x) ? 1 : 0;

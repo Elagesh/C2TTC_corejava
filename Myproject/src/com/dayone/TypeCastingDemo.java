@@ -1,6 +1,6 @@
-package com.tn.dayone;
+package com.dayone;
 
-public class TypecastingDemo {
+public class TypeCastingDemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -16,7 +16,7 @@ public class TypecastingDemo {
 		char var1 = '\u00A7';
 		int i4 = var1;
 		System.out.println(i4);
-		// narrowing/explicit type casting
+		
 		double f1 = 10.52f;
 		long l = (long) f1;
 		System.out.println(l);
@@ -29,7 +29,6 @@ public class TypecastingDemo {
 		byte b1 = 90;
 		char ch1 = (char) b1;
 		System.out.println(ch1);
-		
 	}
 
 }
