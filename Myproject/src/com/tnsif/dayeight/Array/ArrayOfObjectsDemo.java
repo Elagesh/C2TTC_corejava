@@ -1,5 +1,5 @@
 //Program to demonstrate Array of Student Objects
-package com.tnsif.dayten;
+package com.tnsif.dayeight.Array;
 
 public class ArrayOfObjectsDemo {
 

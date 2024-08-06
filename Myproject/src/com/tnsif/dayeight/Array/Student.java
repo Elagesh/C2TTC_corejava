@@ -1,5 +1,5 @@
 //Student entity
-package com.tnsif.dayten;
+package com.tnsif.dayeight.Array;
 
 public class Student {
 	private int rollNo;

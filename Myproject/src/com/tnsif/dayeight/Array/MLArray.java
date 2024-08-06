@@ -1,5 +1,5 @@
 //Program to define class with Multidimensional array
-package com.tnsif.dayten;
+package com.tnsif.dayeight.Array;
 
 public class MLArray
 {

@@ -1,5 +1,5 @@
 //Program to Demonstrate Arrays Class Methods
-package com.tnsif.dayten;
+package com.tnsif.dayeight.Array;
 
 import java.util.Arrays;
 

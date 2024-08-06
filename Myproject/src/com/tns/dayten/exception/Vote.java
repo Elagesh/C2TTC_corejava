@@ -10,7 +10,16 @@ public class Vote {
             System.out.println("Person is eligible to vote!!");  
         }  
     }  
-    //main method  
     
+ 
 
+	public static void main(String args[]){  
+        //calling the function  
+        validate (21);  
+      
+  }
+
+	
 }
+
+ 
